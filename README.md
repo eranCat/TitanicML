@@ -13,7 +13,7 @@ The project implements a supervised learning flow using the Titanic dataset, whi
 
 2. Model Training:
 
-- Using various classification algorithms (e.g., Logistic Regression, Random Forest) to train models.
+- Using various classification algorithms such as KNN and Naive Bayes to train models.
 - Employing 5-fold cross-validation with grid search to select optimal hyperparameters.
 
 3. Evaluation:
