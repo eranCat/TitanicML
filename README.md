@@ -3,3 +3,26 @@
 This project showcases the usage of machine learning techniques to predict survival outcomes on the Titanic dataset.
 The combination of exploratory analysis, feature engineering, and model selection through cross-validation ensures an ideal performance evaluation.
 
+The project implements a supervised learning flow using the Titanic dataset, which is divided into training and testing sets. The goal is to classify survival outcomes using machine learning techniques.
+
+## Methodology
+1. Exploratory Data Analysis (EDA):
+
+- Visualizing data to understand patterns and relationships.
+- Performing feature engineering to create meaningful features for modeling.
+
+2. Model Training:
+
+- Using various classification algorithms (e.g., Logistic Regression, Random Forest) to train models.
+- Employing 5-fold cross-validation with grid search to select optimal hyperparameters.
+
+3. Evaluation:
+
+- Assessing model performance on the test set to demonstrate its quality.
+- Evaluating metrics such as accuracy, precision, recall, and F1-score.
+
+## Tools and Techniques
+
+- Programming Languages: Python
+- Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
