@@ -1,4 +1,7 @@
 # TitanicML
+
+## machine learning project about titanic passangers . 
+
 ## Overview
 This project showcases the usage of machine learning techniques to predict survival outcomes on the Titanic dataset.
 The combination of exploratory data analysis, feature engineering, and model selection through cross-validation ensures an ideal performance evaluation.
@@ -26,3 +29,4 @@ The project implements a supervised learning flow on the Titanic dataset, which 
 - Programming Languages: Python
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
+
