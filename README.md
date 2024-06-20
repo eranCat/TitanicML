@@ -30,3 +30,4 @@ The project implements a supervised learning flow on the Titanic dataset, which 
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - Techniques: Supervised learning, feature engineering, cross-validation, grid search, etc'
 
+[![Watch the video](https://github.com/eranCat/TitanicML/blob/main/thumbnail.png)](https://github.com/eranCat/TitanicML/blob/main/%D7%A1%D7%A8%D7%98%D7%95%D7%9F%20%D7%A4%D7%A8%D7%95%D7%99%D7%99%D7%A7%D7%98%20%D7%9C%D7%9E%D7%99%D7%93%D7%AA%20%D7%9E%D7%9B%D7%95%D7%A0%D7%94%20%D7%92%D7%A8%D7%A1%D7%94%20%D7%90.mkv)
