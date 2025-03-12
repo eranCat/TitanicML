@@ -1,6 +1,6 @@
 # TitanicML
 
-## machine learning project about titanic passangers . 
+## machine learning project about titanic passengers . 
 
 ## Overview
 This project showcases the usage of machine learning techniques to predict survival outcomes on the Titanic dataset.
